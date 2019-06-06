@@ -1,3 +1,0 @@
-console.log(log);
-console.log(123);
-console.log(123);
